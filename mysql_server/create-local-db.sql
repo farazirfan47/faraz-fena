@@ -1,0 +1,8 @@
+-- CREATE TABLE IF NOT EXISTS jobs (
+--     id INT AUTO_INCREMENT PRIMARY KEY,
+--     total_emails INT NOT NULL,
+--     processed_emails INT NOT NULL,
+--     status enum('P', 'D', 'F') NOT NULL,
+--     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+--     updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
+-- )  ENGINE=INNODB;
